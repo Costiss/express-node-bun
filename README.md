@@ -6,6 +6,13 @@ For benchmark scores I used this: https://github.com/wg/wrk
 
 For the Operating System I used my personal computer. I know that it is not the best, but it is not meant to be a complex benchmark
 
+```
+Runtime Versions
+
+Bun 1.0.2
+NodeJs 20.4.0
+```
+
 ## API Endpoints
 
 #### Endpoint 1 - Plain Text "Hello World"
